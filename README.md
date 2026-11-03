@@ -1,11 +1,11 @@
 # Hi, I'm Jeremy
 
-I'm a business analyst and data scientist in Sacramento, CA. I turn operational data, fiscal models, and applied AI into analysis that leaders can actually use.
+I'm a business analyst and data scientist in Sacramento, CA. I turn operational data, fiscal models, and applied AI into analysis that
 
 **Right now**
 
 - Senior Data Specialist at CalRecycle, where I analyse statewide Beverage Container Recycling Program data — fiscal impact estimates, compliance reporting, and the validation work that keeps public numbers defensible.
-- Founding Data Scientist at [HerdSense](https://herdsense.farm/), where we're building AI cameras that spot early signs of lameness in dairy cows.
+- CEO [HerdSense](https://herdsense.farm/), where we're building AI cameras that spot early signs of lameness in dairy cows.
 
 **Before Sacramento**
 
