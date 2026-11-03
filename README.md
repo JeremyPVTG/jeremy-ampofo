@@ -1,6 +1,6 @@
 # Hi, I'm Jeremy
 
-I'm a building a camera system that can detect lameness 5-7 days before humanly perceptible, tracking subtle changes in gait.
+I'm a building a camera system that can detect lameness in dairy cattle 5-7 days before humanly perceptible, tracking subtle changes in gait.
 
 **Right now**
 
